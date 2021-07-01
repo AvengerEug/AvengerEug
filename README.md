@@ -2,6 +2,7 @@
 
 <p align="center">
   <a href="https://blog.csdn.net/avengerEug"><img src="https://img.shields.io/badge/-Java 基础-9cf.svg" alt="Java 基础" /></a>
+  <a href="#26-分布式"><img src="https://img.shields.io/badge/-并发-LightCyan.svg" alt="并发" /></a>
   <a href="#22-微服务"><img src="https://img.shields.io/badge/-微服务-lightgrey.svg" alt="微服务"/></a>
   <a href="#26-分布式"><img src="https://img.shields.io/badge/-分布式-red.svg" alt="分布式" /></a>
   <a href="#23-设计模式"><img src="https://img.shields.io/badge/-设计模式-ff69b4.svg" alt="设计模式" /></a>
