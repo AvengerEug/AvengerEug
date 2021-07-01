@@ -25,4 +25,4 @@
 
 ### 🍕 Github 
 
-![AvengerEug's GitHub](https://github-readme-stats.vercel.app/api?username=AvengerEug&count_private=true&show_icons=true&theme=radical) 
+![AvengerEug's GitHub](https://github-readme-stats.vercel.app/api?username=AvengerEug&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) 
