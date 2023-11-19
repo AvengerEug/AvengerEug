@@ -16,7 +16,7 @@
 
 ### 👋 关于我 
 
-- 🔭 现就职于阿里巴巴-天猫好房事业部-高级开发工程师。现部门急缺前后端，P5、P6都要，可帮忙内推。有意向的可以把简历发送到公司邮箱：huangjunsen.hjs@alibaba-inc.com
+- 🔭 现就职于阿里巴巴-淘天集团-高级开发工程师，主要负责日均百亿级调用量的网关系统~ 
 - 🌱 热爱技术、善于分享。研究过Spring、Dubbo等开源框架源码，拥有Spring的二次开发能力。
 - 👯 开源框架Dubbo的贡献者：[PR：https://github.com/apache/dubbo/pull/8125](https://github.com/apache/dubbo/pull/8125)
 - 😄 平时喜欢做技术总结和分享，在公司内部主导过多场技术分享。
